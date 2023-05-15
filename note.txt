@@ -1,0 +1,21 @@
+div = untuk melakukan grouping element agar mempermudah kita untuk melakukan styling
+
+margin = jarak luar
+padding = jarak dalam
+
+margin/padding  punya 4 value , yaitu atas,kanan, bawah, dan kiri
+
+margin : 10px, 20px, 30px, 40px
+
+github Versioning control rules
+newly use repository
+-git init
+-git add.
+-git commit -m "your message"
+-git remote add remote_name https://remote.link//
+-git push remote_name branch_name
+
+Editing repository
+-git add.
+-git commit -m "your message"
+-git push remote_name branch-name
