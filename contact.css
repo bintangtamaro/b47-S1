@@ -32,7 +32,7 @@ textarea {
 }
 
 button {
-  background-color: orangered;
+  background-color: grey;
   color: white;
   padding: 6px 25px;
   border: none;
@@ -40,7 +40,8 @@ button {
   margin-top: 20px;
   font-size: 15px;
   cursor: pointer;
-  margin-right: 50%;
+  border-right: end;
+  margin-left: 400px;
 }
 
 button:hover {

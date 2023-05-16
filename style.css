@@ -24,7 +24,7 @@ nav ul {
 }
 
 nav ul li {
-  margin-right: 30px;
+  margin-right: 20px;
   font-size: 20px;
 }
 
@@ -33,19 +33,15 @@ nav ul Li a {
 }
 
 nav ul li .active {
+  background-color: crimson;
+  color: grey;
 }
 
 .nav-left {
   flex: 50%;
 }
 
-.nav-right {
-  flex: 50%;
-  text-align: end;
-  margin-right: 25px;
-}
-
-.nav-right a {
+= .nav-right a {
   background-color: orangered;
   padding: 8px 20px;
   color: white;
@@ -55,17 +51,4 @@ nav ul li .active {
 
 .container {
   justify-content: ;
-}
-
-section {
-  display: flex;
-  width: 80%;
-}
-
-.left {
-  flex: 30%;
-}
-
-.right {
-  flex: 30%;
 }
