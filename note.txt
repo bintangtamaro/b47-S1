@@ -19,3 +19,7 @@ Editing repository
 -git add.
 -git commit -m "your message"
 -git push remote_name branch-name
+
+Note styling
+
+Inline> ID > Class > element
